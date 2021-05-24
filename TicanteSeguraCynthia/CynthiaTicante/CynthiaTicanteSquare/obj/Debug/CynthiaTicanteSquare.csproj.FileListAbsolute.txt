@@ -1,0 +1,14 @@
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.exe.config
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.exe
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.pdb
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.csprojAssemblyReference.cache
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.csproj.CoreCompileInputs.cache
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.exe
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.pdb
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.exe.config
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.exe
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\bin\Debug\CynthiaTicanteSquare.pdb
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.csprojAssemblyReference.cache
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.csproj.CoreCompileInputs.cache
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.exe
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicanteSquare\obj\Debug\CynthiaTicanteSquare.pdb

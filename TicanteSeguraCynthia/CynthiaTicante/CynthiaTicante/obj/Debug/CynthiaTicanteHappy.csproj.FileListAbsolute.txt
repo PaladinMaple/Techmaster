@@ -1,0 +1,7 @@
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.exe.config
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.exe
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.pdb
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicanteHappy.csprojAssemblyReference.cache
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicanteHappy.csproj.CoreCompileInputs.cache
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.exe
+C:\Users\Eugenio Avila\Desktop\TicanteSeguraCynthia\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.pdb

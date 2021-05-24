@@ -1,0 +1,7 @@
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.exe.config
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.exe
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\bin\Debug\CynthiaTicante.pdb
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.csprojAssemblyReference.cache
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.csproj.CoreCompileInputs.cache
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.exe
+C:\Users\Eugenio Avila\source\repos\CynthiaTicante\CynthiaTicante\obj\Debug\CynthiaTicante.pdb
